@@ -1,0 +1,77 @@
+		*{
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+
+
+
+		}
+
+		body {
+			background-image: url(29.jpg);
+			background-size: cover;
+			background-position: center;
+
+
+
+		}
+
+
+		p {
+	    	color: #1bff00;
+	    	font-size: 20px;
+	    	font-family: mali,cursive; 
+	    	text-align: center;
+	    	margin: 10px;
+
+	     }
+
+	     h1{
+	     	font-size: 19px;
+	     	text-align: center;
+	     	color: #1bff00;
+	     	font-family: mali,cursive; 
+
+
+
+
+	     }
+
+	     p:hover{
+	     	color: #0addff;
+
+
+
+
+
+	     }
+
+	    a {
+	     	font-size: 30px;
+	     	color: #17da26;
+	     	text-decoration: none;
+	     	border: 3px solid #17da26;
+	     	padding: 2px;
+	     	font-family: 'Cormorant Garamond', serif;
+
+	     }
+
+	    a:hover {
+			color: #f30404;
+			border: 3px solid #f30404;
+
+	     }
+	    img {
+	    	width: 30%;
+	    	height: auto;
+	    	margin: auto;
+	    	display: block;
+
+	    	
+
+
+
+
+
+
+	    }
